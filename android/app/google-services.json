@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "873740296010",
+    "project_id": "campus-docs-bb107",
+    "storage_bucket": "campus-docs-bb107.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873740296010:android:1d9375da7a967ff0da2bb3",
+        "android_client_info": {
+          "package_name": "com.affan.campusdocs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8xeUXUq3IgTRQCwpz9W0sDJyv5Jk9OBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
